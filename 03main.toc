@@ -1,0 +1,74 @@
+\contentsline {chapter}{\numberline {第1章}特別講演「ユベオッ（続縄文）時代の概説」記録}{1}%
+\contentsline {section}{\numberline {1.1}ヤウンモシ\CID {16183}とは}{1}%
+\contentsline {section}{\numberline {1.2}研究者としての「名乗り」}{1}%
+\contentsline {section}{\numberline {1.3}続縄文文化研究}{1}%
+\contentsline {section}{\numberline {1.4}弥生文化と恵山式}{2}%
+\contentsline {section}{\numberline {1.5}「続縄文時代」呼称}{2}%
+\contentsline {section}{\numberline {1.6}質疑}{2}%
+\contentsline {subparagraph}{Sさん}{2}%
+\contentsline {subparagraph}{佐藤}{2}%
+\contentsline {subparagraph}{Sさん}{2}%
+\contentsline {subparagraph}{Sさん}{2}%
+\contentsline {subparagraph}{司会}{2}%
+\contentsline {subparagraph}{佐藤}{2}%
+\contentsline {subparagraph}{Sさん}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{司会}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{佐藤}{3}%
+\contentsline {subparagraph}{Tさん}{3}%
+\contentsline {subparagraph}{司会}{3}%
+\contentsline {chapter}{\numberline {第2章}研究ノート\\岩手県野田村の弥生小型壺と北海道江別市の続縄文小型壺}{4}%
+\contentsline {section}{\numberline {2.1}はじめに}{4}%
+\contentsline {section}{\numberline {2.2}野田村上代川遺跡の小型壺}{4}%
+\contentsline {section}{\numberline {2.3}江別市旧豊平川河畔遺跡の小型壺}{4}%
+\contentsline {section}{\numberline {2.4}壺の時期}{5}%
+\contentsline {chapter}{\numberline {第3章}研究ノート\\空中写真を利用した地形測量による遺跡探査の試み}{7}%
+\contentsline {section}{\numberline {3.1}はじめに}{7}%
+\contentsline {section}{\numberline {3.2}空中写真を利用した写真測量}{7}%
+\contentsline {section}{\numberline {3.3}成果図に基づく現地踏査}{8}%
+\contentsline {section}{\numberline {3.4}おわりに}{9}%
+\contentsline {chapter}{\numberline {第4章}遺跡見学会報告　南北海道の縄文ツアー}{11}%
+\contentsline {section}{\numberline {4.1}復元竪穴住居が魅力の大船遺跡}{11}%
+\contentsline {subsection}{\numberline {4.1.1}クリ材で復元された竪穴住居}{11}%
+\contentsline {subsection}{\numberline {4.1.2}竪穴住居の内部は20℃}{12}%
+\contentsline {subsection}{\numberline {4.1.3}もっとも深い竪穴は2.4m}{12}%
+\contentsline {section}{\numberline {4.2}後期初頭の集落跡が見つかった大船B遺跡}{13}%
+\contentsline {subsection}{\numberline {4.2.1}厚く堆積する火山灰}{13}%
+\contentsline {subsection}{\numberline {4.2.2}31軒検出された後期初頭の竪穴住居}{13}%
+\contentsline {section}{\numberline {4.3}縄文時代の景観が残る垣ノ島遺跡}{13}%
+\contentsline {subsection}{\numberline {4.3.1}バリアフリーな遺跡}{13}%
+\contentsline {subsection}{\numberline {4.3.2}発掘体験コーナー}{14}%
+\contentsline {subsection}{\numberline {4.3.3}地表面に残る竪穴のくぼみ}{14}%
+\contentsline {subsection}{\numberline {4.3.4}大規模な盛土遺構}{14}%
+\contentsline {subsection}{\numberline {4.3.5}史跡に優しい遺構解説板}{14}%
+\contentsline {subsection}{\numberline {4.3.6}現代構造物が全く見えないロケーション}{14}%
+\contentsline {section}{\numberline {4.4}縄文遺跡の見学を終えて}{15}%
+\contentsline {subsection}{\numberline {4.4.1}整備方針と遺跡の姿}{15}%
+\contentsline {subsection}{\numberline {4.4.2}道南唯一の緊急調査}{15}%
+\contentsline {chapter}{\numberline {第5章}注目の遺跡　上ノ国町洲崎館跡　}{16}%
+\contentsline {section}{\numberline {5.1}2例目の懸仏}{16}%
+\contentsline {section}{\numberline {5.2}洲崎館跡}{16}%
+\contentsline {section}{\numberline {5.3}北方を護る毘沙門天}{16}%
+\contentsline {chapter}{\numberline {第6章}会員の活動　日頃の取り組みを紹介します}{18}%
+\contentsline {section}{\numberline {6.1}ただ一人の学芸員の展示室開設までの道のり}{18}%
+\contentsline {subsection}{\numberline {6.1.1}せたな町教育委員会奉職まで}{18}%
+\contentsline {subsection}{\numberline {6.1.2}せたな町の文化財}{18}%
+\contentsline {subsection}{\numberline {6.1.3}資料整備と新施設開館}{19}%
+\contentsline {section}{\numberline {6.2}史跡館城跡で金属探査}{20}%
+\contentsline {subsection}{\numberline {6.2.1}館城跡の礎石と御殿}{20}%
+\contentsline {subsection}{\numberline {6.2.2}金属探査の方法}{20}%
+\contentsline {subsection}{\numberline {6.2.3}金属探査の結果}{20}%
+\contentsline {subsection}{\numberline {6.2.4}金属探査の結果}{20}%
+\contentsline {chapter}{\numberline {第7章}会員の紹介　会員の活躍をお知らせします}{21}%
+\contentsline {section}{\numberline {7.1}水中考古学の魅力（江差町教育委員会・小峰彩椰さん）}{21}%
+\contentsline {section}{\numberline {7.2}中世館跡を掘る（上ノ国町教育委員会・佐藤貢平さん）}{22}%
+\contentsline {chapter}{\numberline {第8章}書評　プロセス考古学の第一人者、初の日本語書籍}{23}%

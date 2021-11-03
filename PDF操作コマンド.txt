@@ -1,0 +1,11 @@
+﻿#ディレクトリ内のPDFを全部結合
+pdftk 01omote.pdf 02blank.pdf 03main.pdf 04ura.pdf cat output merge.pdf
+
+#3ページ目を抽出
+pdftk H24hakkutu.pdf cat 61 output Tatejo_Matumae.pdf
+
+
+#PDFファイルのサイズを圧縮する_Ghostscriptを使う
+# /screenが一番解像度が低く、/ebookは中間程度、/printerと /prepressは高解像度である。
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -dColorImageFilter=/FlateEncode -sOutputFile=s_merge.pdf merge.pdf
+
