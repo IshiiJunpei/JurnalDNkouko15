@@ -9,3 +9,6 @@ pdftk H24hakkutu.pdf cat 61 output Tatejo_Matumae.pdf
 # /screenが一番解像度が低く、/ebookは中間程度、/printerと /prepressは高解像度である。
 gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -dColorImageFilter=/FlateEncode -sOutputFile=s_merge.pdf merge.pdf
 
+# フォントの埋め込みを確認
+pdffonts merge.pdf
+
