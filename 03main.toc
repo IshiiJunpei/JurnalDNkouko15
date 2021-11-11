@@ -53,7 +53,7 @@
 \contentsline {subsection}{\numberline {4.3.6}現代構造物が全く見えないロケーション}{14}%
 \contentsline {section}{\numberline {4.4}縄文遺跡の見学を終えて}{15}%
 \contentsline {subsection}{\numberline {4.4.1}整備方針と遺跡の姿}{15}%
-\contentsline {subsection}{\numberline {4.4.2}減少する緊急調査}{15}%
+\contentsline {subsection}{\numberline {4.4.2}減少する緊急発掘調査}{15}%
 \contentsline {chapter}{\numberline {第5章}注目の遺跡　上ノ国町洲崎館跡　}{16}%
 \contentsline {section}{\numberline {5.1}2例目の懸仏}{16}%
 \contentsline {section}{\numberline {5.2}洲崎館跡}{16}%

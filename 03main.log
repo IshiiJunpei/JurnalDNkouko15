@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2020.12.23)  9 NOV 2021 08:21
+This is e-pTeX, Version 3.14159265-p3.8.2-190908-2.6 (utf8.euc) (TeX Live 2019/Debian) (preloaded format=platex 2021.11.9)  10 NOV 2021 08:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -296,15 +296,50 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@count@id=\count199
 \enitdp@description=\count266
 )
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen186
+\captionmargin@=\dimen187
+\captionwidth=\dimen188
+\caption@tempdima=\dimen189
+\caption@indent=\dimen190
+\caption@parindent=\dimen191
+\caption@hangindent=\dimen192
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+Package caption Info: \@makecaption = \long macro:#1#2->{\small \advance \lefts
+kip .0628\linewidth \advance \rightskip .0628\linewidth \vskip \abovecaptionski
+p \sbox \@tempboxa {#1\hskip 1zw\relax #2}\ifdim \wd \@tempboxa <\hsize \center
+ing \fi #1{\hskip 1zw\relax }#2\par \vskip \belowcaptionskip } on input line 10
+82.
+)
+
+Package caption Warning: Unknown document class (or package),
+(caption)                standard defaults will be used.
+See the caption package documentation for explanation.
+
+\c@caption@flags=\count267
+\c@continuedfloat=\count268
+Package caption Info: float package is loaded.
+Package caption Info: longtable package is loaded.
+(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
+Package: ltcaption 2018/08/26 v1.4a longtable captions (AR)
+)
+Package caption Info: wrapfig package is loaded.
+)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-dvips.def
 File: l3backend-dvips.def 2020-02-03 L3 backend support: dvips
 \l__pdf_internal_box=\box128
-\g__pdf_backend_object_int=\count267
+\g__pdf_backend_object_int=\count269
 \l__pdf_backend_content_box=\box129
 \l__pdf_backend_model_box=\box130
-\g__pdf_backend_annotation_int=\count268
-\g__pdf_backend_link_int=\count269
-\g__pdf_backend_link_sf_int=\count270
+\g__pdf_backend_annotation_int=\count270
+\g__pdf_backend_link_int=\count271
+\g__pdf_backend_link_sf_int=\count272
 )
 (./03main.aux
 
@@ -397,51 +432,53 @@ LaTeX Warning: Label `' multiply defined.
 )
 \openout1 = `03main.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
-LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 58.
-LaTeX Font Info:    ... okay on input line 58.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 59.
+LaTeX Font Info:    ... okay on input line 59.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 58.
+(Font)              scaled to size 9.24683pt on input line 59.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 58.
+(Font)              scaled to size 9.24683pt on input line 59.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 62.
+(Font)              scaled to size 9.24683pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 62.
+(Font)              scaled to size 9.24683pt on input line 63.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 
 
 LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
-(Font)              using `JY1/hgt/bx/n' instead on input line 62.
+(Font)              using `JY1/hgt/bx/n' instead on input line 63.
 
 LaTeX Font Info:    Font shape `JT1/hgt/bx/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 LaTeX Font Info:    Font shape `JY1/hgt/bx/n' will be
-(Font)              scaled to size 13.31541pt on input line 62.
+(Font)              scaled to size 13.31541pt on input line 63.
 
-Overfull \hbox (9.60811pt too wide) in paragraph at lines 62--62
+Overfull \hbox (9.60811pt too wide) in paragraph at lines 63--63
 [][][][][][][]  
  []
 
@@ -479,65 +516,65 @@ LaTeX Font Info:    Font shape `JY1/hmc/bx/n' will be
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 62.
+(Font)              using `JY1/hmc/bx/n' instead on input line 63.
 
 [2]
 第1章
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 70.27588pt on input line 67.
+(Font)              scaled to size 70.27588pt on input line 68.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 70.27588pt on input line 67.
+(Font)              scaled to size 70.27588pt on input line 68.
 LaTeX Font Info:    Trying to load font information for OT1+pzc on input line 6
-7.
+8.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1pzc.fd
 File: ot1pzc.fd 2001/06/04 font definitions for OT1/pzc.
 )
 LaTeX Font Info:    Font shape `OT1/pzc/m/n' in size <76> not available
-(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 67.
+(Font)              Font shape `OT1/pzc/mb/it' tried instead on input line 68.
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 67--67
+Overfull \hbox (10.0pt too wide) in paragraph at lines 68--68
 [][][][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
-(Font)              using `JY1/hgt/bx/n' instead on input line 67.
+(Font)              using `JY1/hgt/bx/n' instead on input line 68.
 
 
-Overfull \hbox (9.60811pt too wide) in paragraph at lines 67--67
+Overfull \hbox (9.60811pt too wide) in paragraph at lines 68--68
 [][][][][][][]  
  []
 
 LaTeX Font Info:    Font shape `JT1/cidj/m/0' will be
-(Font)              scaled to size 9.24683pt on input line 70.
+(Font)              scaled to size 9.24683pt on input line 71.
 LaTeX Font Info:    Font shape `JY1/cidj/m/0' will be
-(Font)              scaled to size 9.24683pt on input line 70.
+(Font)              scaled to size 9.24683pt on input line 71.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 LaTeX Font Info:    Font shape `JT1/hgt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/hgt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 LaTeX Font Info:    Font shape `JT1/cidjg/m/3' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 LaTeX Font Info:    Font shape `JY1/cidjg/m/3' will be
-(Font)              scaled to size 11.09619pt on input line 77.
+(Font)              scaled to size 11.09619pt on input line 78.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 91.
+(Font)              scaled to size 9.24683pt on input line 92.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 9.24683pt on input line 91.
+(Font)              scaled to size 9.24683pt on input line 92.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 94.
+(Font)              using `JY1/hmc/bx/n' instead on input line 95.
 
 [1
 
@@ -545,9 +582,9 @@ LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
 
 ]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 98.
+(Font)              scaled to size 7.39746pt on input line 99.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 7.39746pt on input line 98.
+(Font)              scaled to size 7.39746pt on input line 99.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -557,7 +594,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 118.
+(Font)              using `JY1/hmc/bx/n' instead on input line 119.
 
 [2]
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -565,38 +602,38 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 146.
+(Font)              using `JY1/hmc/bx/n' instead on input line 147.
 
 [3]
 第2章
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 146--146
+Overfull \hbox (10.0pt too wide) in paragraph at lines 147--147
 [][][][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
-(Font)              using `JY1/hgt/bx/n' instead on input line 146.
+(Font)              using `JY1/hgt/bx/n' instead on input line 147.
 
 
-Overfull \hbox (9.60811pt too wide) in paragraph at lines 146--146
+Overfull \hbox (9.60811pt too wide) in paragraph at lines 147--147
 [][][][][][][]  
  []
 
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 152.
+(Font)              scaled to size 6.47278pt on input line 153.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 152.
+(Font)              <8> on input line 153.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 152.
+(Font)              <6> on input line 153.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 152.
+(Font)              scaled to size 5.5481pt on input line 153.
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 5.5481pt on input line 152.
+(Font)              scaled to size 5.5481pt on input line 153.
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 153.
+(Font)              scaled to size 7.39746pt on input line 154.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 7.39746pt on input line 153.
+(Font)              scaled to size 7.39746pt on input line 154.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -608,7 +645,7 @@ Underfull \vbox (badness 1642) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 166.
+(Font)              using `JY1/hmc/bx/n' instead on input line 167.
 
 [4
 
@@ -626,48 +663,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 193.
+(Font)              using `JY1/hmc/bx/n' instead on input line 194.
 
 [5]
 LaTeX Font Info:    Font shape `JT1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 200.
+(Font)              scaled to size 8.32214pt on input line 201.
 LaTeX Font Info:    Font shape `JY1/hmc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 200.
+(Font)              scaled to size 8.32214pt on input line 201.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Font Info:    Font shape `JT1/cidj/m/1' will be
-(Font)              scaled to size 8.32214pt on input line 211.
+(Font)              scaled to size 8.32214pt on input line 212.
 LaTeX Font Info:    Font shape `JY1/cidj/m/1' will be
-(Font)              scaled to size 8.32214pt on input line 211.
+(Font)              scaled to size 8.32214pt on input line 212.
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 229.
+(Font)              using `JY1/hmc/bx/n' instead on input line 230.
 
 [6]
 第3章
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 229--229
+Overfull \hbox (10.0pt too wide) in paragraph at lines 230--230
 [][][][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
-(Font)              using `JY1/hgt/bx/n' instead on input line 229.
+(Font)              using `JY1/hgt/bx/n' instead on input line 230.
 
 
-Overfull \hbox (9.60811pt too wide) in paragraph at lines 229--229
+Overfull \hbox (9.60811pt too wide) in paragraph at lines 230--230
 [][][][][][][]  
  []
 
 
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
-
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 248.
+(Font)              using `JY1/hmc/bx/n' instead on input line 249.
 
 [7
 
@@ -688,48 +721,44 @@ File: fig/05_Miyamoto/fig02.pdf Graphic file (type pdf)
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 307.
+(Font)              using `JY1/hmc/bx/n' instead on input line 308.
 
 [8]
-Underfull \vbox (badness 5345) has occurred while \output is active []
+Underfull \vbox (badness 7649) has occurred while \output is active []
 
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 355.
+(Font)              using `JY1/hmc/bx/n' instead on input line 356.
 
 [9]
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 355.
+(Font)              using `JY1/hmc/bx/n' instead on input line 356.
 
 [10]
 第4章
 
-Overfull \hbox (10.0pt too wide) in paragraph at lines 355--355
+Overfull \hbox (10.0pt too wide) in paragraph at lines 356--356
 [][][][][][][][][]  
  []
 
 
 LaTeX Font Warning: Font shape `JY1/hgt/b/n' undefined
-(Font)              using `JY1/hgt/bx/n' instead on input line 355.
+(Font)              using `JY1/hgt/bx/n' instead on input line 356.
 
 
-Overfull \hbox (9.60811pt too wide) in paragraph at lines 355--355
+Overfull \hbox (9.60811pt too wide) in paragraph at lines 356--356
 [][][][][][][]  
  []
 
 File: fig/01_Iseki_kengaku/01_Opening.JPG Graphic file (type bmp)
 <fig/01_Iseki_kengaku/01_Opening.JPG>
-
-Underfull \vbox (badness 7030) has occurred while \output is active []
-
 File: fig/01_Iseki_kengaku/02_Ofune.JPG Graphic file (type bmp)
 <fig/01_Iseki_kengaku/02_Ofune.JPG>
 
-
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 389.
+(Font)              using `JY1/hmc/bx/n' instead on input line 390.
 
 [11
 
@@ -748,7 +777,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 431.
+(Font)              using `JY1/hmc/bx/n' instead on input line 432.
 
 [12]
 File: fig/01_Iseki_kengaku/09_OfuneB_zenkei.JPG Graphic file (type bmp)
@@ -764,7 +793,7 @@ File: fig/01_Iseki_kengaku/13Kakinosima_slope.JPG Graphic file (type bmp)
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 489.
+(Font)              using `JY1/hmc/bx/n' instead on input line 490.
 
 [13]
 File: fig/01_Iseki_kengaku/14Hakkutu_taiken.JPG Graphic file (type bmp)
@@ -778,14 +807,11 @@ File: fig/01_Iseki_kengaku/17_Kakinosima_sign.JPG Graphic file (type bmp)
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
-(Font)              using `JY1/hmc/bx/n' instead on input line 543.
+(Font)              using `JY1/hmc/bx/n' instead on input line 544.
 
 [14]
 File: fig/01_Iseki_kengaku/18Kakinosima_zenkei02.JPG Graphic file (type bmp)
 <fig/01_Iseki_kengaku/18Kakinosima_zenkei02.JPG>
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
 
 
 LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
@@ -814,7 +840,7 @@ File: fig/08_Tukada/01enkei.JPG Graphic file (type bmp)
 File: fig/08_Tukada/kakebotoke.pdf Graphic file (type pdf)
 <fig/08_Tukada/kakebotoke.pdf>
 
-Underfull \vbox (badness 4266) has occurred while \output is active []
+Underfull \vbox (badness 6268) has occurred while \output is active []
 
 
 
@@ -874,7 +900,7 @@ LaTeX Font Warning: Font shape `JY1/hmc/b/n' undefined
 File: fig/07_Ishii/02survey_pic.jpg Graphic file (type bmp)
 <fig/07_Ishii/02survey_pic.jpg>
 
-Underfull \vbox (badness 1577) has occurred while \output is active []
+Underfull \vbox (badness 2080) has occurred while \output is active []
 
 File: fig/07_Ishii/Metal_survey_result.pdf Graphic file (type pdf)
 <fig/07_Ishii/Metal_survey_result.pdf>
@@ -954,12 +980,12 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 5760 strings out of 482863
- 83749 string characters out of 5959217
- 342238 words of memory out of 5000000
- 20973 multiletter control sequences out of 15000+600000
+ 6881 strings out of 482863
+ 104269 string characters out of 5959218
+ 361588 words of memory out of 5000000
+ 22085 multiletter control sequences out of 15000+600000
  545447 words of font info for 101 fonts, out of 8000000 for 9000
  269 hyphenation exceptions out of 8191
- 30i,10n,32p,714b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,10n,42p,714b,992s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on 03main.dvi (25 pages, 120660 bytes).
+Output written on 03main.dvi (25 pages, 121896 bytes).
